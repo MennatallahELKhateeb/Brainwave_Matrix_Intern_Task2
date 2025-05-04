@@ -1,3 +1,0 @@
-ChatGPT Public Sentiment Analysis Using Twitter Data
-
-This project analyzes 500,000 tweets mentioning ChatGPT to uncover public sentiment, trends, and engagement patterns. Using NLP techniques like text cleaning, polarity scoring, and sentiment classification, we provide insights into how users perceive AI tools like ChatGPT. Visualizations include pie charts, word clouds, and user activity breakdowns. The goal is to offer an intuitive, interactive dashboard built with Streamlit that helps researchers, developers, and businesses understand evolving public opinion around generative AI.
